@@ -7,3 +7,11 @@
 Стек: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
 См. подробнее [coffee_shop](https://github.com/alina-sinkevich/projects/tree/main/coffee_shop)
+
+## Цифровой аудит и анализ воронки продаж музыкальной студии
+
+Анализ данных действующей музыкальной студии с целью оценки эффективности привлечения и удержания клиентов, выявления точек потери выручки и поиска возможностей для роста бизнеса.
+
+Стек: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, Tableau
+
+См. подробнее [soul_tune](https://github.com/alina-sinkevich/projects/tree/main/soul_tune)
